@@ -1,0 +1,8 @@
+[packages]
+com.example.jetpacklocaleswitching = raa
+com.localazy.jetpacklocaleswitching = raa
+
+[localazy]
+allStringsUploaded = true
+showWelcomeMessage = false
+

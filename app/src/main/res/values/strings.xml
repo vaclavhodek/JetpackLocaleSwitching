@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jetpack Locale Switching</string>
+    <string name="welcome_message">Hello World!</string>
+</resources>
